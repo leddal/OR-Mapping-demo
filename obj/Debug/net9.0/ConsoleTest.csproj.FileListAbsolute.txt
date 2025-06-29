@@ -1,0 +1,14 @@
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\bin\Debug\net9.0\ConsoleTest.exe
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\bin\Debug\net9.0\ConsoleTest.deps.json
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\bin\Debug\net9.0\ConsoleTest.runtimeconfig.json
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\bin\Debug\net9.0\ConsoleTest.dll
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\bin\Debug\net9.0\ConsoleTest.pdb
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.AssemblyInfoInputs.cache
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.AssemblyInfo.cs
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.dll
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\refint\ConsoleTest.dll
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.pdb
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.genruntimeconfig.cache
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ref\ConsoleTest.dll
