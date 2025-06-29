@@ -1,4 +1,6 @@
-﻿namespace ConsoleTest;
+﻿using System.Windows.Forms;
+
+namespace ConsoleTest;
 
 public static class TypeMapperRegistry
 {
@@ -19,7 +21,10 @@ public static class TypeMapperRegistry
             throw new InvalidOperationException($"Type '{typeName}' is already registered.");
         _mappers[key] = mapper ?? throw new ArgumentNullException(nameof(mapper));
     }
-
+    public static Control GenerateControl(string typeName, string labelText, object initialValue)
+    {
+        return GetMapper(typeName).GenerateControl(labelText, initialValue);
+    }
     public static Type GetClrType(AttributeMethodBase attr)
     {
         return GetMapper(attr.Type).MapClrType(attr.DataFormat);

@@ -1,7 +1,10 @@
 ﻿// using System.Windows.Forms;
+
+using System.Windows.Forms;
+
 namespace ConsoleTest;
 
-public interface ICustomTypeMapper:IValueParser
+public interface ICustomTypeMapper:IValueParser,IControlGenerator
 {
     Type MapClrType(string dataFormat);
 }
@@ -12,5 +15,5 @@ public interface IValueParser
 }
 public interface IControlGenerator
 {
-    // Control GenerateControl(string labelText, object initialValue);
+    Control GenerateControl(string labelText, object initialValue);
 }
