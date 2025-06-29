@@ -1,4 +1,5 @@
-﻿namespace ConsoleTest;
+﻿// using System.Windows.Forms;
+namespace ConsoleTest;
 
 public interface ICustomTypeMapper:IValueParser
 {
@@ -8,4 +9,8 @@ public interface ICustomTypeMapper:IValueParser
 public interface IValueParser
 {
     object ParseValue(object rawValue, string dataFormat);
+}
+public interface IControlGenerator
+{
+    // Control GenerateControl(string labelText, object initialValue);
 }
