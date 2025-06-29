@@ -12,3 +12,4 @@ D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\refint\Consol
 D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.pdb
 D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.genruntimeconfig.cache
 D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ref\ConsoleTest.dll
+D:\Code\Rider\ConsoleTest\ConsoleTest\ConsoleTest\obj\Debug\net9.0\ConsoleTest.sourcelink.json
